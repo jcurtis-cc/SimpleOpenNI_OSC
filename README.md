@@ -2,7 +2,7 @@
 <br>
 OSC output for SimpleOpenNI in Processing 3 <br>
 <br>
-Dependencies: https://github.com/totovr/SimpleOpenni
+Dependencies: https://github.com/totovr/SimpleOpenni <br>
 Defaults to dump OSC out: LocalHost port 33333 <br>
 <br>
 <br>
