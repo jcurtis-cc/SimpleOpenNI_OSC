@@ -3,7 +3,7 @@
 OSC output for SimpleOpenNI in Processing 3.3.6+ <br>
 Defaults to dump OSC out: 127.0.0.1, port 33333 <br>
 <br>
-<b>Dependencies:<br> 
+<b>Dependencies:<br><br> 
 Simple Open NI Processing Library https://github.com/totovr/SimpleOpenni/tree/Processing_3.3.6 <br>
 WINDOWS: Kinect SDK version 1.7 https://www.microsoft.com/en-au/download/details.aspx?id=36996 </b></br> 
 <br>
